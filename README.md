@@ -36,7 +36,6 @@ import ipqsapi
 
 api = ipqsapi.API("YOUR_API_KEY_HERE")
 ```
-
 ### Proxy and VPN Check
 
 To check if an IP address is a proxy or VPN, use the `proxyvpn_check` endpoint:
@@ -201,8 +200,6 @@ This project is licensed under the MIT License - see the [LICENSE]() file for de
 
 Feel free to submit issues or pull requests. We welcome contributions from the community.
 
-### Key Points
-
 1. **Initialization**: Show how to initialize the API with an API key.
 2. **Endpoint Usage**: Provide usage examples for each endpoint, specifying what kind of data it accepts and returns.
 3. **Examples**: Include examples with mock data to illustrate how to use each endpoint.
@@ -211,6 +208,7 @@ Feel free to submit issues or pull requests. We welcome contributions from the c
 
 This `README.md` provides a comprehensive guide for users to understand and use your API wrapper effectively.
 
+### Key Points
 # Русский
 
 ## Обзор
@@ -413,5 +411,3 @@ print(response)
 5. **Лицензия и Участие** : Укажите условия лицензии и как участвовать.
 
 Этот `README.md` предоставляет полное руководство для пользователей, чтобы они могли понять и эффективно использовать вашу обёртку API.
-#   i p q s a p i  
- 
