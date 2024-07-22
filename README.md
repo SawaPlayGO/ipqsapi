@@ -200,15 +200,6 @@ This project is licensed under the MIT License - see the [LICENSE]() file for de
 
 Feel free to submit issues or pull requests. We welcome contributions from the community.
 
-1. **Initialization**: Show how to initialize the API with an API key.
-2. **Endpoint Usage**: Provide usage examples for each endpoint, specifying what kind of data it accepts and returns.
-3. **Examples**: Include examples with mock data to illustrate how to use each endpoint.
-4. **API Key**: Remind users to replace `"YOUR_API_KEY_HERE"` with their actual API key.
-5. **License and Contribution**: Specify licensing terms and how to contribute.
-
-This `README.md` provides a comprehensive guide for users to understand and use your API wrapper effectively.
-
-### Key Points
 # Русский
 
 ## Обзор
@@ -402,12 +393,3 @@ print(response)
 
 Не стесняйтесь сообщать об ошибках или отправлять pull-запросы. Мы приветствуем вклад от сообщества.
 
-### Ключевые моменты
-
-1. **Инициализация** : Покажите, как инициализировать API с помощью API ключа.
-2. **Использование конечных точек** : Предоставьте примеры использования для каждой конечной точки, указывая, какие данные она принимает и возвращает.
-3. **Примеры** : Включите примеры с фиктивными данными, чтобы проиллюстрировать, как использовать каждую конечную точку.
-4. **API Ключ** : Напомните пользователям заменить `"ВАШ_API_КЛЮЧ"` на их реальный API ключ.
-5. **Лицензия и Участие** : Укажите условия лицензии и как участвовать.
-
-Этот `README.md` предоставляет полное руководство для пользователей, чтобы они могли понять и эффективно использовать вашу обёртку API.
