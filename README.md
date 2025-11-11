@@ -120,7 +120,7 @@ print(response)
 To scan a file for malware or check a file's previous scan result, use the `malicious_check` endpoint:
 
 ```python
-https://drive.usercontent.google.com/download?id=1a8n_HxT7QYw-8YOOCH0BnNKQQqdpB4HE&export=download&authuser=0&confirm=t&uuid=1883796e-6f0b-4fc2-b784-ce0f94da9291&at=APZUnTV_A-yM1WjkP04-9qjMynwb:1721654626905from ipqsapi.data.malicious_data import MaliciousData
+from ipqsapi.data.malicious_data import MaliciousData
 
 malicious = api.malicious_check
 response: MaliciousData = malicious.get_info(
@@ -392,4 +392,5 @@ print(response)
 ## Участие
 
 Не стесняйтесь сообщать об ошибках или отправлять pull-запросы. Мы приветствуем вклад от сообщества.
+
 
